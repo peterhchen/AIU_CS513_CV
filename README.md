@@ -1,2 +1,2 @@
-# SVU_CS513_CV
-SVU Computer Vision based on UC Berkeley CS 198 and Sentdex OpenCV and OpenGL
+# AIU_CS513_CV
+AIU Computer Vision based on UC Berkeley CS 198 and Sentdex OpenCV and OpenGL
